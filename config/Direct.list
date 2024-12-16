@@ -269,6 +269,9 @@ DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weibocdn.cn
 DOMAIN-SUFFIX,xiaoka.tv
 
+# Skg
+DOMAIN-SUFFIX,skg.com
+
 # Sohu Sogo
 DOMAIN-SUFFIX,go2map.com
 DOMAIN-SUFFIX,sogo.com

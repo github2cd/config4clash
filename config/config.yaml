@@ -5,7 +5,7 @@ proxy-providers:
     interval: 1800
     health-check:
       enable: true
-      url: https://www.gstatic.com/generate_204
+      url: http://103.135.101.126:3001/oadVwPionJqdzebqujZvHUro4LdZCA/download/collection/%E6%9C%80%E5%BC%BA%E7%A5%9E%E5%A7%AC?target=ClashMeta
       interval: 300
     proxy: 🟢 直连
     url: "机场订阅"

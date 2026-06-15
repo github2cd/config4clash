@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,epicgames
 DOMAIN-KEYWORD,laowang
 DOMAIN-KEYWORD,javdb
+DOMAIN-KEYWORD,jdbstatic
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
